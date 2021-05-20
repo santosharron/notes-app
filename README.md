@@ -38,7 +38,7 @@ A clean, simple and modern note taking app built with Flutter. Be sure to leave 
 
 ## Screenshots
 <div>
-  <img width="250" src="https://user-images.githubusercontent.com/76491344/117906479-fdf3ee00-b2a2-11eb-8dfe-ca60a12a2076.png"> </img>
+  <img width="250" src="https://user-images.githubusercontent.com/73644573/118997676-77c45f80-b9a6-11eb-9a47-e010941d7b2a.jpg"> </img>
   <img width="250" src="https://user-images.githubusercontent.com/73644573/118997048-fa98ea80-b9a5-11eb-9dbd-a290ab845e39.jpg"> </img> 
 </div>
 
