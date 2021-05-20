@@ -47,5 +47,5 @@ A clean, simple and modern note taking app built with Flutter. Be sure to leave 
 
 If you have any questions, you can reach me here:
 
-- Instagram: Santosh_arron [Link](https://www.instagram.com/santosh_arron/)
+- Instagram: [Santosh_arron](https://www.instagram.com/santosh_arron/)
 - Email: santosharron@gmail.com
