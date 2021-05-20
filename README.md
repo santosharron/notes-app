@@ -21,20 +21,6 @@ A clean, simple and modern note taking app built with Flutter. Be sure to leave 
 - intl:
 - flutter_slidable:
 
-## TODO
-
-- [ ] Add Notebooks to store notes
-- [ ] Add Animations
-- [ ] Make app responsive
-- [ ] Face ID to unlock note
-- [ ] Add Firebase
-  - [ ] GitHub Authentication
-  - [ ] Google Authentication
-  - [ ] Analytics
-
-## Fixes
-- [ ] Fix sortList() method
-- [ ] Fix Create Password before creating note glitch
 
 ## Screenshots
 <div>
