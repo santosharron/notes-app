@@ -15,7 +15,7 @@ A clean, simple and modern note taking app built with Flutter. Be sure to leave 
 
 ## Dependencies
 
-- canton_design_system: [Link](https://github.com/31Carlton7/canton_design_system) to repository
+- canton_design_system: [Link](https://github.com/santosharron/notes-app) to repository
 - persistent_bottom_nav_bar:
 - shared_preferences:
 - intl:
